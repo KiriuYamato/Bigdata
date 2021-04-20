@@ -9,4 +9,12 @@ The contents of these uploading files as following:
     
     2、路演PPT(PPT of speeches)
     
+    3、其他文档及手册(The other documents and handbooks)
     
+    4、数据(The data)
+    
+    5、项目文档(The documents of the project)
+    
+    6、项目源码(The source files of the project)
+
+    7、项目演示视频(The demo video of the project)
