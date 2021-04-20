@@ -18,3 +18,6 @@ The contents of these uploading files as following:
     6、项目源码(The source files of the project)
 
     7、项目演示视频(The demo video of the project)
+
+# 1、The preference thesis
+Including several referrence thesis for the projects. From Journal、thesis of master and doctoral dissertations on CNKI.
