@@ -20,4 +20,10 @@ The contents of these uploading files as following:
     7、项目演示视频(The demo video of the project)
 
 # 1、The preference thesis
-Including several referrence thesis for the projects. From Journal、thesis of master and doctoral dissertations on CNKI.
+Including several reference thesis for the projects. From Journal、thesis of master and doctoral dissertations on CNKI.
+
+# 2、PPT of speeches
+This PPT is less than 20 pages and 100 MB including the describtion of the content of the project、the goal of the project、the abstract of the project、the highlight of the project、the implements of the project、the management of the project. And the media in this PPT includes a video、pictures and several describtions.
+
+# 3、The other documents and handbooks
+
